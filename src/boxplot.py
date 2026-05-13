@@ -19,7 +19,7 @@ df.boxplot(column=['MedInc'])
 plt.title('California Housing Median Income Boxplot')
 
 # Save image
-plt.savefig('boxplot.png')
+plt.savefig('figs/boxplot.png')
 
 # Show plot
 plt.show()
